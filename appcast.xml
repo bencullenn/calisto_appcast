@@ -2,10 +2,10 @@
     <channel>
         <title>Calisto Insight - Appcast</title>
         <item>
-            <title>Version 1.0.5</title>
-            <description>Update prompt and other behind the scenese improvement.</description>
+            <title>Version 1.1.0</title>
+            <description>Update prompt and other behind the scenes improvement.</description>
             <pubDate>Wed, 25 Jan 2023 0:0:0 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.getcalisto.insight" sparkle:version="1.0.5" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.getcalisto.insight" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.0.4</title>
