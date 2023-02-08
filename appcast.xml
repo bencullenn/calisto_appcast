@@ -2,6 +2,12 @@
     <channel>
         <title>Calisto Insight - Appcast</title>
         <item>
+            <title>Version 1.0.8</title>
+            <description>Improved how errors are recorded to make it easier to find and fix bugs</description>
+            <pubDate>Wed, 8 Feb 2023 0:0:0 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.getcalisto.insight" sparkle:version="1.0.8" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 1.0.6</title>
             <description>Major changes to server integration and some bug fixes</description>
             <pubDate>Fri, 3 Feb 2023 0:0:0 +0000</pubDate>
